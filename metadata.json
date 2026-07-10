@@ -1,0 +1,6 @@
+{
+  "name": "DSA Laboratory Website",
+  "description": "A professional and responsive static laboratory website for Data Structures and Algorithms with experiment guides, resources, faculty profiles, and dynamic content.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
